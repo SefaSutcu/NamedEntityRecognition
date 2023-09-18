@@ -1,0 +1,12 @@
+                precision    recall  f1-score   support
+
+      B-PERSON       0.89      0.75      0.82      1603
+      I-PERSON       0.91      0.52      0.67       803
+    B-LOCATION       0.79      0.86      0.83      1126
+B-ORGANIZATION       0.85      0.55      0.67       873
+I-ORGANIZATION       0.63      0.15      0.24       864
+    I-LOCATION       0.76      0.34      0.47       211
+
+     micro avg       0.84      0.60      0.70      5480
+     macro avg       0.81      0.53      0.61      5480
+  weighted avg       0.82      0.60      0.67      5480
